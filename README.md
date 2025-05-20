@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kyle-tomlinson
-- 👀 I’m interested in aerospace engineering. 
-- 🌱 I’m currently trying to self-teach python. 
+- 👀 I’m interested in aerospace & mechanical design. 
+- 🌱 I’m currently being a G.  
 - 📫 Reach me at kylerytomlinson@gmail.com
 
 <!---
