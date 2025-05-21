@@ -20,6 +20,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="./Matlab_Logo.png" alt="MATLAB" width="40" height="40"/> </a>
+  <a href="https://www.solidworks.com/" target="_blank"> <img src="./SolidWorks_Logo.png" alt="SolidWorks" width="40" height="40"/> </a>
 </p>
 
 
